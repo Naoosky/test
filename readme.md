@@ -1,1 +1,1 @@
-c'est un fichier de test
+c'est un fichier de test en groupe
